@@ -1,1 +1,3 @@
-Hello World! I am learning Programming with The Odin Project and it is good
+Hello World! 
+
+I am learning Web Development with The Odin Project!
